@@ -1,0 +1,1 @@
+This is a simple application for creating SVGs of visualizations of superpermutation structures.  The structure was inspired by the work of Greg Egan and is based on selecting nodes with a greedy algorithm.
